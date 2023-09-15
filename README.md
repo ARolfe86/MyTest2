@@ -1,2 +1,2 @@
 # MyTest2
-This is a quick demo
+This is Amanda's GitHub page
